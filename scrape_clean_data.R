@@ -1,6 +1,6 @@
-install.packages("rvest")
-install.packages("tidyverse")
-install.packages("readr")
+library("rvest")
+library("tidyverse")
+library("readr")
 
 # Function to scrape data from a single page and return as a data frame
 scrape_page <- function(year) {
