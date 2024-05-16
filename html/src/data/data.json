@@ -1,0 +1,10242 @@
+[
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 3,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 12,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 10,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 19,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 7,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 2,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 14,
+      "category": "male",
+      "year": 1896,
+      "percent": 100,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1896,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 67,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1900,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1900,
+      "percent": null,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1900,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 13,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 9,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 742,
+      "category": "male",
+      "year": 1900,
+      "percent": 98.01849406,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 95,
+      "category": "male",
+      "year": 1900,
+      "percent": 98.95833333,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 76,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 19,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 22,
+      "category": "male",
+      "year": 1900,
+      "percent": 95.65217391,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1900,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1900,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 34,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1900,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 17,
+      "category": "male",
+      "year": 1900,
+      "percent": 89.47368421,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 10,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 66,
+      "category": "male",
+      "year": 1900,
+      "percent": 94.28571429,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 4,
+      "category": "male",
+      "year": 1900,
+      "percent": 100,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1904,
+      "percent": 100,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 54,
+      "category": "male",
+      "year": 1904,
+      "percent": 100,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 4,
+      "category": "male",
+      "year": 1904,
+      "percent": 100,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 18,
+      "category": "male",
+      "year": 1904,
+      "percent": 100,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 4,
+      "category": "male",
+      "year": 1904,
+      "percent": 100,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1904,
+      "percent": 100,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 537,
+      "category": "male",
+      "year": 1904,
+      "percent": 98.89502762,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1904,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 4,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 17,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 3,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 49,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 53,
+      "category": "male",
+      "year": 1908,
+      "percent": 98.14814815,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 40,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 49,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 35,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 76,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 16,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 9,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 39,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 38,
+      "category": "male",
+      "year": 1908,
+      "percent": 100,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1908,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1912,
+      "percent": null,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1912,
+      "percent": 97.14285714,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1912,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 37,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1912,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 151,
+      "category": "male",
+      "year": 1912,
+      "percent": 99.34210526,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1912,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 119,
+      "category": "male",
+      "year": 1912,
+      "percent": 99.16666667,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 263,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 180,
+      "category": "male",
+      "year": 1912,
+      "percent": 97.2972973,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 119,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 66,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 2,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1912,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 33,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 8,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 422,
+      "category": "male",
+      "year": 1912,
+      "percent": 94.83146067,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 174,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 159,
+      "category": "male",
+      "year": 1912,
+      "percent": 100,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "AUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "BEL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "BRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "CAN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "CHN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "DEN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "ESP",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "FRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "GBR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "GER",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "HUN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "ITA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "JPN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "KOR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "NED",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "POL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "SUI",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "SWE",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "USA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1916,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": ""
+    },
+    {
+      "count": 12,
+      "category": "male",
+      "year": 1920,
+      "percent": 92.30769231,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 328,
+      "category": "male",
+      "year": 1920,
+      "percent": 97.04142012,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 19,
+      "category": "male",
+      "year": 1920,
+      "percent": 100,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 55,
+      "category": "male",
+      "year": 1920,
+      "percent": 100,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1920,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 150,
+      "category": "male",
+      "year": 1920,
+      "percent": 97.4025974,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 58,
+      "category": "male",
+      "year": 1920,
+      "percent": 100,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 291,
+      "category": "male",
+      "year": 1920,
+      "percent": 97.32441472,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 219,
+      "category": "male",
+      "year": 1920,
+      "percent": 93.19148936,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1920,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1920,
+      "percent": null,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 173,
+      "category": "male",
+      "year": 1920,
+      "percent": 99.42528736,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 15,
+      "category": "male",
+      "year": 1920,
+      "percent": 100,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1920,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 129,
+      "category": "male",
+      "year": 1920,
+      "percent": 99.23076923,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1920,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 79,
+      "category": "male",
+      "year": 1920,
+      "percent": 100,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 247,
+      "category": "male",
+      "year": 1920,
+      "percent": 95,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 274,
+      "category": "male",
+      "year": 1920,
+      "percent": 95.13888889,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1920,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 35,
+      "category": "male",
+      "year": 1924,
+      "percent": 97.22222222,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 166,
+      "category": "male",
+      "year": 1924,
+      "percent": 95.95375723,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 12,
+      "category": "male",
+      "year": 1924,
+      "percent": 100,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 65,
+      "category": "male",
+      "year": 1924,
+      "percent": 100,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1924,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 77,
+      "category": "male",
+      "year": 1924,
+      "percent": 86.51685393,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 93,
+      "category": "male",
+      "year": 1924,
+      "percent": 97.89473684,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 368,
+      "category": "male",
+      "year": 1924,
+      "percent": 92,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 239,
+      "category": "male",
+      "year": 1924,
+      "percent": 89.51310861,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1924,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 86,
+      "category": "male",
+      "year": 1924,
+      "percent": 96.62921348,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 196,
+      "category": "male",
+      "year": 1924,
+      "percent": 98,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 19,
+      "category": "male",
+      "year": 1924,
+      "percent": 100,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1924,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 169,
+      "category": "male",
+      "year": 1924,
+      "percent": 94.94382022,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 64,
+      "category": "male",
+      "year": 1924,
+      "percent": 98.46153846,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 136,
+      "category": "male",
+      "year": 1924,
+      "percent": 96.45390071,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 146,
+      "category": "male",
+      "year": 1924,
+      "percent": 91.82389937,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 275,
+      "category": "male",
+      "year": 1924,
+      "percent": 91.97324415,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 2,
+      "category": "male",
+      "year": 1924,
+      "percent": 66.66666667,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 14,
+      "category": "male",
+      "year": 1928,
+      "percent": 77.77777778,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 175,
+      "category": "male",
+      "year": 1928,
+      "percent": 93.5828877,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1928,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 61,
+      "category": "male",
+      "year": 1928,
+      "percent": 89.70588235,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1928,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 82,
+      "category": "male",
+      "year": 1928,
+      "percent": 90.10989011,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 80,
+      "category": "male",
+      "year": 1928,
+      "percent": 100,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 257,
+      "category": "male",
+      "year": 1928,
+      "percent": 87.41496599,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 201,
+      "category": "male",
+      "year": 1928,
+      "percent": 86.63793103,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 263,
+      "category": "male",
+      "year": 1928,
+      "percent": 88.25503356,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 93,
+      "category": "male",
+      "year": 1928,
+      "percent": 85.32110092,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 156,
+      "category": "male",
+      "year": 1928,
+      "percent": 89.65517241,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 39,
+      "category": "male",
+      "year": 1928,
+      "percent": 97.5,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1928,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 222,
+      "category": "male",
+      "year": 1928,
+      "percent": 83.45864662,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 88,
+      "category": "male",
+      "year": 1928,
+      "percent": 88,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 132,
+      "category": "male",
+      "year": 1928,
+      "percent": 99.2481203,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 87,
+      "category": "male",
+      "year": 1928,
+      "percent": 87,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 237,
+      "category": "male",
+      "year": 1928,
+      "percent": 84.34163701,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1928,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 8,
+      "category": "male",
+      "year": 1932,
+      "percent": 66.66666667,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 29,
+      "category": "male",
+      "year": 1932,
+      "percent": 80.55555556,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 58,
+      "category": "male",
+      "year": 1932,
+      "percent": 98.30508475,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 85,
+      "category": "male",
+      "year": 1932,
+      "percent": 83.33333333,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1932,
+      "percent": 100,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 35,
+      "category": "male",
+      "year": 1932,
+      "percent": 81.39534884,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 7,
+      "category": "male",
+      "year": 1932,
+      "percent": 100,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 97,
+      "category": "male",
+      "year": 1932,
+      "percent": 94.17475728,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 92,
+      "category": "male",
+      "year": 1932,
+      "percent": 84.40366972,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 137,
+      "category": "male",
+      "year": 1932,
+      "percent": 93.83561644,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 56,
+      "category": "male",
+      "year": 1932,
+      "percent": 96.55172414,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 112,
+      "category": "male",
+      "year": 1932,
+      "percent": 100,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 140,
+      "category": "male",
+      "year": 1932,
+      "percent": 89.17197452,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1932,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 29,
+      "category": "male",
+      "year": 1932,
+      "percent": 65.90909091,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 42,
+      "category": "male",
+      "year": 1932,
+      "percent": 82.35294118,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 7,
+      "category": "male",
+      "year": 1932,
+      "percent": 100,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 78,
+      "category": "male",
+      "year": 1932,
+      "percent": 96.2962963,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 400,
+      "category": "male",
+      "year": 1932,
+      "percent": 84.38818565,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1932,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 28,
+      "category": "male",
+      "year": 1936,
+      "percent": 87.5,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 145,
+      "category": "male",
+      "year": 1936,
+      "percent": 96.66666667,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 67,
+      "category": "male",
+      "year": 1936,
+      "percent": 91.78082192,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 79,
+      "category": "male",
+      "year": 1936,
+      "percent": 81.44329897,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 52,
+      "category": "male",
+      "year": 1936,
+      "percent": 96.2962963,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 105,
+      "category": "male",
+      "year": 1936,
+      "percent": 86.7768595,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1936,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 190,
+      "category": "male",
+      "year": 1936,
+      "percent": 94.52736318,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 171,
+      "category": "male",
+      "year": 1936,
+      "percent": 82.21153846,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 389,
+      "category": "male",
+      "year": 1936,
+      "percent": 89.83833718,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 197,
+      "category": "male",
+      "year": 1936,
+      "percent": 91.2037037,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 228,
+      "category": "male",
+      "year": 1936,
+      "percent": 93.44262295,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 204,
+      "category": "male",
+      "year": 1936,
+      "percent": 92.72727273,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1936,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 144,
+      "category": "male",
+      "year": 1936,
+      "percent": 87.27272727,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 127,
+      "category": "male",
+      "year": 1936,
+      "percent": 88.19444444,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 184,
+      "category": "male",
+      "year": 1936,
+      "percent": 96.84210526,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 163,
+      "category": "male",
+      "year": 1936,
+      "percent": 95.32163743,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 313,
+      "category": "male",
+      "year": 1936,
+      "percent": 87.18662953,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1936,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "AUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "BEL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "BRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "CAN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "CHN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "DEN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "ESP",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "FRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "GBR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "GER",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "HUN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "ITA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "JPN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "KOR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "NED",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "POL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "SUI",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "SWE",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "USA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1940,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "AUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "BEL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "BRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "CAN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "CHN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "DEN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "ESP",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "FRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "GBR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "GER",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "HUN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "ITA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "JPN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "KOR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "NED",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "POL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "SUI",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "SWE",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "USA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "male",
+      "year": 1944,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": ""
+    },
+    {
+      "count": 66,
+      "category": "male",
+      "year": 1948,
+      "percent": 88,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 132,
+      "category": "male",
+      "year": 1948,
+      "percent": 87.41721854,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 59,
+      "category": "male",
+      "year": 1948,
+      "percent": 84.28571429,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 105,
+      "category": "male",
+      "year": 1948,
+      "percent": 82.67716535,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 30,
+      "category": "male",
+      "year": 1948,
+      "percent": 96.77419355,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 144,
+      "category": "male",
+      "year": 1948,
+      "percent": 88.88888889,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 65,
+      "category": "male",
+      "year": 1948,
+      "percent": 100,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 279,
+      "category": "male",
+      "year": 1948,
+      "percent": 88.29113924,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 337,
+      "category": "male",
+      "year": 1948,
+      "percent": 82.8009828,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1948,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 107,
+      "category": "male",
+      "year": 1948,
+      "percent": 83.59375,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 194,
+      "category": "male",
+      "year": 1948,
+      "percent": 90.23255814,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1948,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 45,
+      "category": "male",
+      "year": 1948,
+      "percent": 97.82608696,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 115,
+      "category": "male",
+      "year": 1948,
+      "percent": 77.18120805,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 31,
+      "category": "male",
+      "year": 1948,
+      "percent": 81.57894737,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 178,
+      "category": "male",
+      "year": 1948,
+      "percent": 95.18716578,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 162,
+      "category": "male",
+      "year": 1948,
+      "percent": 89.50276243,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 262,
+      "category": "male",
+      "year": 1948,
+      "percent": 87.33333333,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1948,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 71,
+      "category": "male",
+      "year": 1952,
+      "percent": 87.65432099,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 130,
+      "category": "male",
+      "year": 1952,
+      "percent": 96.2962963,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 92,
+      "category": "male",
+      "year": 1952,
+      "percent": 94.84536082,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 97,
+      "category": "male",
+      "year": 1952,
+      "percent": 90.65420561,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 1,
+      "category": "male",
+      "year": 1952,
+      "percent": 100,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 115,
+      "category": "male",
+      "year": 1952,
+      "percent": 89.14728682,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 27,
+      "category": "male",
+      "year": 1952,
+      "percent": 100,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 214,
+      "category": "male",
+      "year": 1952,
+      "percent": 87.34693878,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 213,
+      "category": "male",
+      "year": 1952,
+      "percent": 82.87937743,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 173,
+      "category": "male",
+      "year": 1952,
+      "percent": 84.3902439,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 162,
+      "category": "male",
+      "year": 1952,
+      "percent": 85.71428571,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 208,
+      "category": "male",
+      "year": 1952,
+      "percent": 90.04329004,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 58,
+      "category": "male",
+      "year": 1952,
+      "percent": 84.05797101,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 18,
+      "category": "male",
+      "year": 1952,
+      "percent": 94.73684211,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 78,
+      "category": "male",
+      "year": 1952,
+      "percent": 75,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 103,
+      "category": "male",
+      "year": 1952,
+      "percent": 82.4,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 148,
+      "category": "male",
+      "year": 1952,
+      "percent": 94.26751592,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 183,
+      "category": "male",
+      "year": 1952,
+      "percent": 88.83495146,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 245,
+      "category": "male",
+      "year": 1952,
+      "percent": 85.66433566,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 255,
+      "category": "male",
+      "year": 1952,
+      "percent": 86.44067797,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 250,
+      "category": "male",
+      "year": 1956,
+      "percent": 85.03401361,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 51,
+      "category": "male",
+      "year": 1956,
+      "percent": 94.44444444,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 43,
+      "category": "male",
+      "year": 1956,
+      "percent": 97.72727273,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 77,
+      "category": "male",
+      "year": 1956,
+      "percent": 83.69565217,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1956,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 27,
+      "category": "male",
+      "year": 1956,
+      "percent": 87.09677419,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1956,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 119,
+      "category": "male",
+      "year": 1956,
+      "percent": 86.86131387,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 163,
+      "category": "male",
+      "year": 1956,
+      "percent": 86.24338624,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 134,
+      "category": "male",
+      "year": 1956,
+      "percent": 84.81012658,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 88,
+      "category": "male",
+      "year": 1956,
+      "percent": 81.48148148,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 114,
+      "category": "male",
+      "year": 1956,
+      "percent": 88.37209302,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 94,
+      "category": "male",
+      "year": 1956,
+      "percent": 85.45454545,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 35,
+      "category": "male",
+      "year": 1956,
+      "percent": 100,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1956,
+      "percent": null,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 49,
+      "category": "male",
+      "year": 1956,
+      "percent": 76.5625,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1956,
+      "percent": null,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 74,
+      "category": "male",
+      "year": 1956,
+      "percent": 84.09090909,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 251,
+      "category": "male",
+      "year": 1956,
+      "percent": 84.51178451,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 233,
+      "category": "male",
+      "year": 1956,
+      "percent": 85.66176471,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 160,
+      "category": "male",
+      "year": 1960,
+      "percent": 84.65608466,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 93,
+      "category": "male",
+      "year": 1960,
+      "percent": 92.07920792,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 70,
+      "category": "male",
+      "year": 1960,
+      "percent": 98.5915493,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 74,
+      "category": "male",
+      "year": 1960,
+      "percent": 87.05882353,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1960,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 88,
+      "category": "male",
+      "year": 1960,
+      "percent": 88,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 133,
+      "category": "male",
+      "year": 1960,
+      "percent": 92.36111111,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 210,
+      "category": "male",
+      "year": 1960,
+      "percent": 88.23529412,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 206,
+      "category": "male",
+      "year": 1960,
+      "percent": 81.4229249,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 239,
+      "category": "male",
+      "year": 1960,
+      "percent": 81.29251701,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 153,
+      "category": "male",
+      "year": 1960,
+      "percent": 85,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 246,
+      "category": "male",
+      "year": 1960,
+      "percent": 87.85714286,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 142,
+      "category": "male",
+      "year": 1960,
+      "percent": 87.65432099,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 33,
+      "category": "male",
+      "year": 1960,
+      "percent": 94.28571429,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 80,
+      "category": "male",
+      "year": 1960,
+      "percent": 72.72727273,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 156,
+      "category": "male",
+      "year": 1960,
+      "percent": 84.32432432,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 147,
+      "category": "male",
+      "year": 1960,
+      "percent": 98.65771812,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 115,
+      "category": "male",
+      "year": 1960,
+      "percent": 85.82089552,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 241,
+      "category": "male",
+      "year": 1960,
+      "percent": 82.53424658,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 233,
+      "category": "male",
+      "year": 1960,
+      "percent": 82.33215548,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 203,
+      "category": "male",
+      "year": 1964,
+      "percent": 83.53909465,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 60,
+      "category": "male",
+      "year": 1964,
+      "percent": 98.36065574,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 60,
+      "category": "male",
+      "year": 1964,
+      "percent": 98.36065574,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 95,
+      "category": "male",
+      "year": 1964,
+      "percent": 82.60869565,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1964,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 53,
+      "category": "male",
+      "year": 1964,
+      "percent": 88.33333333,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 48,
+      "category": "male",
+      "year": 1964,
+      "percent": 94.11764706,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 118,
+      "category": "male",
+      "year": 1964,
+      "percent": 85.50724638,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 160,
+      "category": "male",
+      "year": 1964,
+      "percent": 78.43137255,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 275,
+      "category": "male",
+      "year": 1964,
+      "percent": 81.60237389,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 150,
+      "category": "male",
+      "year": 1964,
+      "percent": 82.41758242,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 157,
+      "category": "male",
+      "year": 1964,
+      "percent": 93.45238095,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 270,
+      "category": "male",
+      "year": 1964,
+      "percent": 82.31707317,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 128,
+      "category": "male",
+      "year": 1964,
+      "percent": 83.11688312,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 105,
+      "category": "male",
+      "year": 1964,
+      "percent": 84,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 115,
+      "category": "male",
+      "year": 1964,
+      "percent": 82.14285714,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 65,
+      "category": "male",
+      "year": 1964,
+      "percent": 98.48484848,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 76,
+      "category": "male",
+      "year": 1964,
+      "percent": 80.85106383,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 267,
+      "category": "male",
+      "year": 1964,
+      "percent": 77.16763006,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 254,
+      "category": "male",
+      "year": 1964,
+      "percent": 80.12618297,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 104,
+      "category": "male",
+      "year": 1968,
+      "percent": 81.25,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 77,
+      "category": "male",
+      "year": 1968,
+      "percent": 93.90243902,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 73,
+      "category": "male",
+      "year": 1968,
+      "percent": 96.05263158,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 111,
+      "category": "male",
+      "year": 1968,
+      "percent": 79.85611511,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1968,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 60,
+      "category": "male",
+      "year": 1968,
+      "percent": 93.75,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 120,
+      "category": "male",
+      "year": 1968,
+      "percent": 98.36065574,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 169,
+      "category": "male",
+      "year": 1968,
+      "percent": 84.5,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 175,
+      "category": "male",
+      "year": 1968,
+      "percent": 77.77777778,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1968,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 135,
+      "category": "male",
+      "year": 1968,
+      "percent": 80.83832335,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 152,
+      "category": "male",
+      "year": 1968,
+      "percent": 91.01796407,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 146,
+      "category": "male",
+      "year": 1968,
+      "percent": 85.38011696,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 41,
+      "category": "male",
+      "year": 1968,
+      "percent": 75.92592593,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 82,
+      "category": "male",
+      "year": 1968,
+      "percent": 76.63551402,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 140,
+      "category": "male",
+      "year": 1968,
+      "percent": 79.0960452,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 81,
+      "category": "male",
+      "year": 1968,
+      "percent": 95.29411765,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 86,
+      "category": "male",
+      "year": 1968,
+      "percent": 86,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 274,
+      "category": "male",
+      "year": 1968,
+      "percent": 76.75070028,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 246,
+      "category": "male",
+      "year": 1968,
+      "percent": 78.84615385,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 139,
+      "category": "male",
+      "year": 1972,
+      "percent": 82.73809524,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 82,
+      "category": "male",
+      "year": 1972,
+      "percent": 93.18181818,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 78,
+      "category": "male",
+      "year": 1972,
+      "percent": 96.2962963,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 158,
+      "category": "male",
+      "year": 1972,
+      "percent": 75.96153846,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1972,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 114,
+      "category": "male",
+      "year": 1972,
+      "percent": 90.47619048,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 118,
+      "category": "male",
+      "year": 1972,
+      "percent": 95.93495935,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 197,
+      "category": "male",
+      "year": 1972,
+      "percent": 86.78414097,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 210,
+      "category": "male",
+      "year": 1972,
+      "percent": 73.94366197,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1972,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 187,
+      "category": "male",
+      "year": 1972,
+      "percent": 80.60344828,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 197,
+      "category": "male",
+      "year": 1972,
+      "percent": 87.94642857,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 148,
+      "category": "male",
+      "year": 1972,
+      "percent": 80.43478261,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 32,
+      "category": "male",
+      "year": 1972,
+      "percent": 76.19047619,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 90,
+      "category": "male",
+      "year": 1972,
+      "percent": 75.6302521,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 252,
+      "category": "male",
+      "year": 1972,
+      "percent": 86.89655172,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 122,
+      "category": "male",
+      "year": 1972,
+      "percent": 80.79470199,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 104,
+      "category": "male",
+      "year": 1972,
+      "percent": 79.38931298,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 316,
+      "category": "male",
+      "year": 1972,
+      "percent": 79,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 298,
+      "category": "male",
+      "year": 1972,
+      "percent": 80.32345013,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 146,
+      "category": "male",
+      "year": 1976,
+      "percent": 81.11111111,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 75,
+      "category": "male",
+      "year": 1976,
+      "percent": 74.25742574,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 72,
+      "category": "male",
+      "year": 1976,
+      "percent": 91.13924051,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 261,
+      "category": "male",
+      "year": 1976,
+      "percent": 67.79220779,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1976,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 56,
+      "category": "male",
+      "year": 1976,
+      "percent": 84.84848485,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 103,
+      "category": "male",
+      "year": 1976,
+      "percent": 91.15044248,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 177,
+      "category": "male",
+      "year": 1976,
+      "percent": 85.9223301,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 176,
+      "category": "male",
+      "year": 1976,
+      "percent": 72.72727273,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1976,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 124,
+      "category": "male",
+      "year": 1976,
+      "percent": 69.66292135,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 183,
+      "category": "male",
+      "year": 1976,
+      "percent": 87.14285714,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 153,
+      "category": "male",
+      "year": 1976,
+      "percent": 71.83098592,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 38,
+      "category": "male",
+      "year": 1976,
+      "percent": 76,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 72,
+      "category": "male",
+      "year": 1976,
+      "percent": 66.66666667,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 180,
+      "category": "male",
+      "year": 1976,
+      "percent": 86.95652174,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 47,
+      "category": "male",
+      "year": 1976,
+      "percent": 94,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 99,
+      "category": "male",
+      "year": 1976,
+      "percent": 85.34482759,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 278,
+      "category": "male",
+      "year": 1976,
+      "percent": 70.2020202,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 285,
+      "category": "male",
+      "year": 1976,
+      "percent": 69.51219512,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 92,
+      "category": "male",
+      "year": 1980,
+      "percent": 76.66666667,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 43,
+      "category": "male",
+      "year": 1980,
+      "percent": 72.88135593,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 91,
+      "category": "male",
+      "year": 1980,
+      "percent": 85.8490566,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1980,
+      "percent": null,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1980,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 55,
+      "category": "male",
+      "year": 1980,
+      "percent": 94.82758621,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 146,
+      "category": "male",
+      "year": 1980,
+      "percent": 94.19354839,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 98,
+      "category": "male",
+      "year": 1980,
+      "percent": 80.99173554,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 149,
+      "category": "male",
+      "year": 1980,
+      "percent": 68.03652968,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1980,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 182,
+      "category": "male",
+      "year": 1980,
+      "percent": 69.20152091,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 121,
+      "category": "male",
+      "year": 1980,
+      "percent": 76.10062893,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1980,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1980,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 57,
+      "category": "male",
+      "year": 1980,
+      "percent": 76,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 232,
+      "category": "male",
+      "year": 1980,
+      "percent": 75.81699346,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 67,
+      "category": "male",
+      "year": 1980,
+      "percent": 91.78082192,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 122,
+      "category": "male",
+      "year": 1980,
+      "percent": 84.13793103,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1980,
+      "percent": null,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 340,
+      "category": "male",
+      "year": 1980,
+      "percent": 69.52965235,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 169,
+      "category": "male",
+      "year": 1984,
+      "percent": 69.83471074,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 47,
+      "category": "male",
+      "year": 1984,
+      "percent": 74.6031746,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 126,
+      "category": "male",
+      "year": 1984,
+      "percent": 85.71428571,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 257,
+      "category": "male",
+      "year": 1984,
+      "percent": 62.99019608,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 132,
+      "category": "male",
+      "year": 1984,
+      "percent": 61.39534884,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 49,
+      "category": "male",
+      "year": 1984,
+      "percent": 81.66666667,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 163,
+      "category": "male",
+      "year": 1984,
+      "percent": 91.06145251,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 189,
+      "category": "male",
+      "year": 1984,
+      "percent": 79.41176471,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 229,
+      "category": "male",
+      "year": 1984,
+      "percent": 67.95252226,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1984,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1984,
+      "percent": null,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 222,
+      "category": "male",
+      "year": 1984,
+      "percent": 82.8358209,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 174,
+      "category": "male",
+      "year": 1984,
+      "percent": 76.99115044,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 116,
+      "category": "male",
+      "year": 1984,
+      "percent": 66.28571429,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 82,
+      "category": "male",
+      "year": 1984,
+      "percent": 60.29411765,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1984,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 102,
+      "category": "male",
+      "year": 1984,
+      "percent": 79.06976744,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 131,
+      "category": "male",
+      "year": 1984,
+      "percent": 75.28735632,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 339,
+      "category": "male",
+      "year": 1984,
+      "percent": 64.94252874,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1984,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 180,
+      "category": "male",
+      "year": 1988,
+      "percent": 71.42857143,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 35,
+      "category": "male",
+      "year": 1988,
+      "percent": 59.3220339,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 127,
+      "category": "male",
+      "year": 1988,
+      "percent": 79.375,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 223,
+      "category": "male",
+      "year": 1988,
+      "percent": 67.98780488,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 149,
+      "category": "male",
+      "year": 1988,
+      "percent": 54.57875458,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 57,
+      "category": "male",
+      "year": 1988,
+      "percent": 73.07692308,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 200,
+      "category": "male",
+      "year": 1988,
+      "percent": 87.33624454,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 192,
+      "category": "male",
+      "year": 1988,
+      "percent": 72.18045113,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 219,
+      "category": "male",
+      "year": 1988,
+      "percent": 63.47826087,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1988,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 152,
+      "category": "male",
+      "year": 1988,
+      "percent": 80.85106383,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 212,
+      "category": "male",
+      "year": 1988,
+      "percent": 83.7944664,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 186,
+      "category": "male",
+      "year": 1988,
+      "percent": 72.94117647,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 269,
+      "category": "male",
+      "year": 1988,
+      "percent": 67.08229426,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 93,
+      "category": "male",
+      "year": 1988,
+      "percent": 63.26530612,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 111,
+      "category": "male",
+      "year": 1988,
+      "percent": 77.62237762,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 72,
+      "category": "male",
+      "year": 1988,
+      "percent": 72.72727273,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 147,
+      "category": "male",
+      "year": 1988,
+      "percent": 79.89130435,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 332,
+      "category": "male",
+      "year": 1988,
+      "percent": 62.99810247,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 319,
+      "category": "male",
+      "year": 1988,
+      "percent": 66.32016632,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 187,
+      "category": "male",
+      "year": 1992,
+      "percent": 67.02508961,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 43,
+      "category": "male",
+      "year": 1992,
+      "percent": 63.23529412,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 132,
+      "category": "male",
+      "year": 1992,
+      "percent": 72.52747253,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 179,
+      "category": "male",
+      "year": 1992,
+      "percent": 60.6779661,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 117,
+      "category": "male",
+      "year": 1992,
+      "percent": 47.95081967,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 77,
+      "category": "male",
+      "year": 1992,
+      "percent": 70,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 296,
+      "category": "male",
+      "year": 1992,
+      "percent": 70.3087886,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 241,
+      "category": "male",
+      "year": 1992,
+      "percent": 71.09144543,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 229,
+      "category": "male",
+      "year": 1992,
+      "percent": 61.72506739,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 300,
+      "category": "male",
+      "year": 1992,
+      "percent": 64.79481641,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 159,
+      "category": "male",
+      "year": 1992,
+      "percent": 73.2718894,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 228,
+      "category": "male",
+      "year": 1992,
+      "percent": 75,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 175,
+      "category": "male",
+      "year": 1992,
+      "percent": 68.359375,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 154,
+      "category": "male",
+      "year": 1992,
+      "percent": 68.14159292,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 117,
+      "category": "male",
+      "year": 1992,
+      "percent": 58.20895522,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 149,
+      "category": "male",
+      "year": 1992,
+      "percent": 74.12935323,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 73,
+      "category": "male",
+      "year": 1992,
+      "percent": 71.56862745,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 143,
+      "category": "male",
+      "year": 1992,
+      "percent": 76.47058824,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 355,
+      "category": "male",
+      "year": 1992,
+      "percent": 65.13761468,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 1992,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 250,
+      "category": "male",
+      "year": 1996,
+      "percent": 59.95203837,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 41,
+      "category": "male",
+      "year": 1996,
+      "percent": 67.21311475,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 156,
+      "category": "male",
+      "year": 1996,
+      "percent": 70.58823529,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 152,
+      "category": "male",
+      "year": 1996,
+      "percent": 50.1650165,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 111,
+      "category": "male",
+      "year": 1996,
+      "percent": 37.75510204,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 54,
+      "category": "male",
+      "year": 1996,
+      "percent": 45.37815126,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 194,
+      "category": "male",
+      "year": 1996,
+      "percent": 67.12802768,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 197,
+      "category": "male",
+      "year": 1996,
+      "percent": 65.88628763,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 184,
+      "category": "male",
+      "year": 1996,
+      "percent": 61.33333333,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 279,
+      "category": "male",
+      "year": 1996,
+      "percent": 59.87124464,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 147,
+      "category": "male",
+      "year": 1996,
+      "percent": 69.01408451,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 236,
+      "category": "male",
+      "year": 1996,
+      "percent": 69.41176471,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 157,
+      "category": "male",
+      "year": 1996,
+      "percent": 51.30718954,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 190,
+      "category": "male",
+      "year": 1996,
+      "percent": 62.70627063,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 137,
+      "category": "male",
+      "year": 1996,
+      "percent": 57.32217573,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 126,
+      "category": "male",
+      "year": 1996,
+      "percent": 76.36363636,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 72,
+      "category": "male",
+      "year": 1996,
+      "percent": 62.60869565,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 111,
+      "category": "male",
+      "year": 1996,
+      "percent": 62.71186441,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 375,
+      "category": "male",
+      "year": 1996,
+      "percent": 57.87037037,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 232,
+      "category": "male",
+      "year": 1996,
+      "percent": 59.48717949,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 341,
+      "category": "male",
+      "year": 2000,
+      "percent": 55.26742301,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 36,
+      "category": "male",
+      "year": 2000,
+      "percent": 52.94117647,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 106,
+      "category": "male",
+      "year": 2000,
+      "percent": 53.53535354,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 150,
+      "category": "male",
+      "year": 2000,
+      "percent": 51.02040816,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 91,
+      "category": "male",
+      "year": 2000,
+      "percent": 33.57933579,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 53,
+      "category": "male",
+      "year": 2000,
+      "percent": 54.63917526,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 216,
+      "category": "male",
+      "year": 2000,
+      "percent": 67.28971963,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 211,
+      "category": "male",
+      "year": 2000,
+      "percent": 62.79761905,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 181,
+      "category": "male",
+      "year": 2000,
+      "percent": 58.38709677,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 241,
+      "category": "male",
+      "year": 2000,
+      "percent": 57.10900474,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 109,
+      "category": "male",
+      "year": 2000,
+      "percent": 61.23595506,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 246,
+      "category": "male",
+      "year": 2000,
+      "percent": 68.14404432,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 156,
+      "category": "male",
+      "year": 2000,
+      "percent": 58.64661654,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 175,
+      "category": "male",
+      "year": 2000,
+      "percent": 62.27758007,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 147,
+      "category": "male",
+      "year": 2000,
+      "percent": 63.63636364,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 129,
+      "category": "male",
+      "year": 2000,
+      "percent": 68.98395722,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 64,
+      "category": "male",
+      "year": 2000,
+      "percent": 62.74509804,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 98,
+      "category": "male",
+      "year": 2000,
+      "percent": 65.33333333,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 333,
+      "category": "male",
+      "year": 2000,
+      "percent": 56.82593857,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 241,
+      "category": "male",
+      "year": 2000,
+      "percent": 55.40229885,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 268,
+      "category": "male",
+      "year": 2004,
+      "percent": 57.0212766,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 31,
+      "category": "male",
+      "year": 2004,
+      "percent": 62,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 124,
+      "category": "male",
+      "year": 2004,
+      "percent": 51.02880658,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 130,
+      "category": "male",
+      "year": 2004,
+      "percent": 49.61832061,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 136,
+      "category": "male",
+      "year": 2004,
+      "percent": 35.50913838,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 48,
+      "category": "male",
+      "year": 2004,
+      "percent": 52.17391304,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 177,
+      "category": "male",
+      "year": 2004,
+      "percent": 56.01265823,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 195,
+      "category": "male",
+      "year": 2004,
+      "percent": 63.31168831,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 161,
+      "category": "male",
+      "year": 2004,
+      "percent": 60.98484848,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 250,
+      "category": "male",
+      "year": 2004,
+      "percent": 56.6893424,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 119,
+      "category": "male",
+      "year": 2004,
+      "percent": 56.93779904,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 229,
+      "category": "male",
+      "year": 2004,
+      "percent": 62.91208791,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 139,
+      "category": "male",
+      "year": 2004,
+      "percent": 45.4248366,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 145,
+      "category": "male",
+      "year": 2004,
+      "percent": 54.92424242,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 134,
+      "category": "male",
+      "year": 2004,
+      "percent": 63.80952381,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 132,
+      "category": "male",
+      "year": 2004,
+      "percent": 68.04123711,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 59,
+      "category": "male",
+      "year": 2004,
+      "percent": 60.20408163,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 62,
+      "category": "male",
+      "year": 2004,
+      "percent": 53.91304348,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 279,
+      "category": "male",
+      "year": 2004,
+      "percent": 52.34521576,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 244,
+      "category": "male",
+      "year": 2004,
+      "percent": 54.70852018,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 233,
+      "category": "male",
+      "year": 2008,
+      "percent": 53.93518519,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 77,
+      "category": "male",
+      "year": 2008,
+      "percent": 81.91489362,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 139,
+      "category": "male",
+      "year": 2008,
+      "percent": 51.86567164,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 186,
+      "category": "male",
+      "year": 2008,
+      "percent": 56.02409639,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 310,
+      "category": "male",
+      "year": 2008,
+      "percent": 51.75292154,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 64,
+      "category": "male",
+      "year": 2008,
+      "percent": 76.19047619,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 163,
+      "category": "male",
+      "year": 2008,
+      "percent": 57.59717314,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 188,
+      "category": "male",
+      "year": 2008,
+      "percent": 60.84142395,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 163,
+      "category": "male",
+      "year": 2008,
+      "percent": 53.61842105,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 237,
+      "category": "male",
+      "year": 2008,
+      "percent": 56.42857143,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 88,
+      "category": "male",
+      "year": 2008,
+      "percent": 51.4619883,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 203,
+      "category": "male",
+      "year": 2008,
+      "percent": 60.96096096,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 167,
+      "category": "male",
+      "year": 2008,
+      "percent": 50.30120482,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 159,
+      "category": "male",
+      "year": 2008,
+      "percent": 60,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 139,
+      "category": "male",
+      "year": 2008,
+      "percent": 58.64978903,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 156,
+      "category": "male",
+      "year": 2008,
+      "percent": 60.70038911,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 47,
+      "category": "male",
+      "year": 2008,
+      "percent": 56.62650602,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 50,
+      "category": "male",
+      "year": 2008,
+      "percent": 40.6504065,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 306,
+      "category": "male",
+      "year": 2008,
+      "percent": 52.04081633,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 231,
+      "category": "male",
+      "year": 2008,
+      "percent": 50.88105727,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 221,
+      "category": "male",
+      "year": 2012,
+      "percent": 54.56790123,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 69,
+      "category": "male",
+      "year": 2012,
+      "percent": 62.16216216,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 131,
+      "category": "male",
+      "year": 2012,
+      "percent": 52.82258065,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 119,
+      "category": "male",
+      "year": 2012,
+      "percent": 43.58974359,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 160,
+      "category": "male",
+      "year": 2012,
+      "percent": 42.55319149,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 66,
+      "category": "male",
+      "year": 2012,
+      "percent": 57.89473684,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 168,
+      "category": "male",
+      "year": 2012,
+      "percent": 60.43165468,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 182,
+      "category": "male",
+      "year": 2012,
+      "percent": 56.17283951,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 273,
+      "category": "male",
+      "year": 2012,
+      "percent": 51.50943396,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 212,
+      "category": "male",
+      "year": 2012,
+      "percent": 55.35248042,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 93,
+      "category": "male",
+      "year": 2012,
+      "percent": 61.18421053,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 158,
+      "category": "male",
+      "year": 2012,
+      "percent": 56.22775801,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 136,
+      "category": "male",
+      "year": 2012,
+      "percent": 46.73539519,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 135,
+      "category": "male",
+      "year": 2012,
+      "percent": 54,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 94,
+      "category": "male",
+      "year": 2012,
+      "percent": 54.33526012,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 124,
+      "category": "male",
+      "year": 2012,
+      "percent": 59.04761905,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 70,
+      "category": "male",
+      "year": 2012,
+      "percent": 71.42857143,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 55,
+      "category": "male",
+      "year": 2012,
+      "percent": 41.35338346,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 262,
+      "category": "male",
+      "year": 2012,
+      "percent": 49.43396226,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 203,
+      "category": "male",
+      "year": 2012,
+      "percent": 47.31934732,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 208,
+      "category": "male",
+      "year": 2016,
+      "percent": 49.52380952,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 70,
+      "category": "male",
+      "year": 2016,
+      "percent": 67.30769231,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 255,
+      "category": "male",
+      "year": 2016,
+      "percent": 55.19480519,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 127,
+      "category": "male",
+      "year": 2016,
+      "percent": 40.96774194,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 151,
+      "category": "male",
+      "year": 2016,
+      "percent": 38.52040816,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 78,
+      "category": "male",
+      "year": 2016,
+      "percent": 65.54621849,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 164,
+      "category": "male",
+      "year": 2016,
+      "percent": 53.42019544,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 225,
+      "category": "male",
+      "year": 2016,
+      "percent": 57.39795918,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 201,
+      "category": "male",
+      "year": 2016,
+      "percent": 55.83333333,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 224,
+      "category": "male",
+      "year": 2016,
+      "percent": 53.58851675,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 88,
+      "category": "male",
+      "year": 2016,
+      "percent": 57.14285714,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 168,
+      "category": "male",
+      "year": 2016,
+      "percent": 54.36893204,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 171,
+      "category": "male",
+      "year": 2016,
+      "percent": 51.04477612,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 103,
+      "category": "male",
+      "year": 2016,
+      "percent": 49.75845411,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 105,
+      "category": "male",
+      "year": 2016,
+      "percent": 44.30379747,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 139,
+      "category": "male",
+      "year": 2016,
+      "percent": 59.4017094,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 57,
+      "category": "male",
+      "year": 2016,
+      "percent": 55.88235294,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 64,
+      "category": "male",
+      "year": 2016,
+      "percent": 42.66666667,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 264,
+      "category": "male",
+      "year": 2016,
+      "percent": 47.56756757,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 142,
+      "category": "male",
+      "year": 2016,
+      "percent": 50,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 222,
+      "category": "male",
+      "year": 2020,
+      "percent": 46.34655532,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 69,
+      "category": "male",
+      "year": 2020,
+      "percent": 56.09756098,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 164,
+      "category": "male",
+      "year": 2020,
+      "percent": 52.90322581,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 148,
+      "category": "male",
+      "year": 2020,
+      "percent": 39.15343915,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 125,
+      "category": "male",
+      "year": 2020,
+      "percent": 30.48780488,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 55,
+      "category": "male",
+      "year": 2020,
+      "percent": 52.88461538,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 190,
+      "category": "male",
+      "year": 2020,
+      "percent": 57.92682927,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 212,
+      "category": "male",
+      "year": 2020,
+      "percent": 55.78947368,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 178,
+      "category": "male",
+      "year": 2020,
+      "percent": 47.46666667,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 234,
+      "category": "male",
+      "year": 2020,
+      "percent": 59.69387755,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 81,
+      "category": "male",
+      "year": 2020,
+      "percent": 47.09302326,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 188,
+      "category": "male",
+      "year": 2020,
+      "percent": 51.36612022,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 314,
+      "category": "male",
+      "year": 2020,
+      "percent": 52.33333333,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 130,
+      "category": "male",
+      "year": 2020,
+      "percent": 55.31914894,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 112,
+      "category": "male",
+      "year": 2020,
+      "percent": 41.94756554,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 108,
+      "category": "male",
+      "year": 2020,
+      "percent": 52.42718447,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 59,
+      "category": "male",
+      "year": 2020,
+      "percent": 52.21238938,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 55,
+      "category": "male",
+      "year": 2020,
+      "percent": 41.35338346,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 285,
+      "category": "male",
+      "year": 2020,
+      "percent": 45.89371981,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "male",
+      "year": 2020,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": 0,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1896,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": null,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1900,
+      "percent": 1.981505945,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1900,
+      "percent": 1.041666667,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1900,
+      "percent": 4.347826087,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1900,
+      "percent": 10.52631579,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1900,
+      "percent": 5.714285714,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1900,
+      "percent": 0,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": 0,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": 0,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": 0,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": 0,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": 0,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": 0,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 6,
+      "category": "female",
+      "year": 1904,
+      "percent": 1.104972376,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1904,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1908,
+      "percent": 1.851851852,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": 0,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1908,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": null,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1912,
+      "percent": 2.857142857,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1912,
+      "percent": 0.6578947368,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1912,
+      "percent": 0.8333333333,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1912,
+      "percent": 2.702702703,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 23,
+      "category": "female",
+      "year": 1912,
+      "percent": 5.168539326,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1912,
+      "percent": 0,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "AUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "BEL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "BRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "CAN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "CHN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "DEN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "ESP",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "FRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "GBR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "GER",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "HUN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "ITA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "JPN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "KOR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "NED",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "POL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "SUI",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "SWE",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "USA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1916,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": ""
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1920,
+      "percent": 7.692307692,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 10,
+      "category": "female",
+      "year": 1920,
+      "percent": 2.958579882,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": 0,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": 0,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1920,
+      "percent": 2.597402597,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": 0,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 8,
+      "category": "female",
+      "year": 1920,
+      "percent": 2.675585284,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1920,
+      "percent": 6.808510638,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": null,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1920,
+      "percent": 0.5747126437,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": 0,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1920,
+      "percent": 0.7692307692,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": 0,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 13,
+      "category": "female",
+      "year": 1920,
+      "percent": 5,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 14,
+      "category": "female",
+      "year": 1920,
+      "percent": 4.861111111,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1920,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1924,
+      "percent": 2.777777778,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 7,
+      "category": "female",
+      "year": 1924,
+      "percent": 4.046242775,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1924,
+      "percent": 0,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1924,
+      "percent": 0,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1924,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 12,
+      "category": "female",
+      "year": 1924,
+      "percent": 13.48314607,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1924,
+      "percent": 2.105263158,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 32,
+      "category": "female",
+      "year": 1924,
+      "percent": 0,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 28,
+      "category": "female",
+      "year": 1924,
+      "percent": 10.48689139,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1924,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1924,
+      "percent": 3.370786517,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1924,
+      "percent": 2,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1924,
+      "percent": 0,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1924,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1924,
+      "percent": 5.056179775,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1924,
+      "percent": 1.538461538,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1924,
+      "percent": 3.546099291,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 13,
+      "category": "female",
+      "year": 1924,
+      "percent": 8.176100629,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 24,
+      "category": "female",
+      "year": 1924,
+      "percent": 8.026755853,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1924,
+      "percent": 33.33333333,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1928,
+      "percent": 22.22222222,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 12,
+      "category": "female",
+      "year": 1928,
+      "percent": 6.417112299,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1928,
+      "percent": null,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 7,
+      "category": "female",
+      "year": 1928,
+      "percent": 10.29411765,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1928,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1928,
+      "percent": 9.89010989,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1928,
+      "percent": 0,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 37,
+      "category": "female",
+      "year": 1928,
+      "percent": 12.58503401,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 31,
+      "category": "female",
+      "year": 1928,
+      "percent": 13.36206897,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 35,
+      "category": "female",
+      "year": 1928,
+      "percent": 11.74496644,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1928,
+      "percent": 14.67889908,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 18,
+      "category": "female",
+      "year": 1928,
+      "percent": 10.34482759,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1928,
+      "percent": 2.5,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1928,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1928,
+      "percent": 16.54135338,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 12,
+      "category": "female",
+      "year": 1928,
+      "percent": 12,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1928,
+      "percent": 0.7518796992,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 13,
+      "category": "female",
+      "year": 1928,
+      "percent": 13,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1928,
+      "percent": 15.65836299,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1928,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1932,
+      "percent": 33.33333333,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 7,
+      "category": "female",
+      "year": 1932,
+      "percent": 19.44444444,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1932,
+      "percent": 1.694915254,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 17,
+      "category": "female",
+      "year": 1932,
+      "percent": 16.66666667,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1932,
+      "percent": 0,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 8,
+      "category": "female",
+      "year": 1932,
+      "percent": 18.60465116,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1932,
+      "percent": 0,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 6,
+      "category": "female",
+      "year": 1932,
+      "percent": 5.825242718,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 17,
+      "category": "female",
+      "year": 1932,
+      "percent": 15.59633028,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1932,
+      "percent": 6.164383562,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1932,
+      "percent": 3.448275862,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1932,
+      "percent": 0,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 17,
+      "category": "female",
+      "year": 1932,
+      "percent": 10.82802548,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1932,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1932,
+      "percent": 34.09090909,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1932,
+      "percent": 17.64705882,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1932,
+      "percent": 0,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1932,
+      "percent": 3.703703704,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 74,
+      "category": "female",
+      "year": 1932,
+      "percent": 15.61181435,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1932,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1936,
+      "percent": 12.5,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1936,
+      "percent": 3.333333333,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 6,
+      "category": "female",
+      "year": 1936,
+      "percent": 8.219178082,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 18,
+      "category": "female",
+      "year": 1936,
+      "percent": 18.55670103,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1936,
+      "percent": 3.703703704,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1936,
+      "percent": 13.2231405,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1936,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1936,
+      "percent": 5.472636816,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 37,
+      "category": "female",
+      "year": 1936,
+      "percent": 17.78846154,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1936,
+      "percent": 10.16166282,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 19,
+      "category": "female",
+      "year": 1936,
+      "percent": 8.796296296,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1936,
+      "percent": 6.557377049,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1936,
+      "percent": 7.272727273,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1936,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 21,
+      "category": "female",
+      "year": 1936,
+      "percent": 12.72727273,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 17,
+      "category": "female",
+      "year": 1936,
+      "percent": 11.80555556,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 6,
+      "category": "female",
+      "year": 1936,
+      "percent": 3.157894737,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 8,
+      "category": "female",
+      "year": 1936,
+      "percent": 4.678362573,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 46,
+      "category": "female",
+      "year": 1936,
+      "percent": 12.81337047,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1936,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "AUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "BEL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "BRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "CAN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "CHN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "DEN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "ESP",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "FRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "GBR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "GER",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "HUN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "ITA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "JPN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "KOR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "NED",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "POL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "SUI",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "SWE",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "USA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1940,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "AUS",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "BEL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "BRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "CAN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "CHN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "DEN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "ESP",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "FRA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "GBR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "GER",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "HUN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "ITA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "JPN",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "KOR",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "NED",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "POL",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "SUI",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "SWE",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "USA",
+      "order": ""
+    },
+    {
+      "count": "",
+      "category": "female",
+      "year": 1944,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": ""
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1948,
+      "percent": 12,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 19,
+      "category": "female",
+      "year": 1948,
+      "percent": 12.58278146,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1948,
+      "percent": 15.71428571,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 22,
+      "category": "female",
+      "year": 1948,
+      "percent": 17.32283465,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1948,
+      "percent": 3.225806452,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 18,
+      "category": "female",
+      "year": 1948,
+      "percent": 11.11111111,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1948,
+      "percent": 0,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 37,
+      "category": "female",
+      "year": 1948,
+      "percent": 11.70886076,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 70,
+      "category": "female",
+      "year": 1948,
+      "percent": 17.1990172,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1948,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 21,
+      "category": "female",
+      "year": 1948,
+      "percent": 16.40625,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 21,
+      "category": "female",
+      "year": 1948,
+      "percent": 9.76744186,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1948,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1948,
+      "percent": 2.173913043,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 34,
+      "category": "female",
+      "year": 1948,
+      "percent": 22.81879195,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 7,
+      "category": "female",
+      "year": 1948,
+      "percent": 18.42105263,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1948,
+      "percent": 4.812834225,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 19,
+      "category": "female",
+      "year": 1948,
+      "percent": 10.49723757,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 38,
+      "category": "female",
+      "year": 1948,
+      "percent": 12.66666667,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1948,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 10,
+      "category": "female",
+      "year": 1952,
+      "percent": 12.34567901,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1952,
+      "percent": 3.703703704,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1952,
+      "percent": 5.154639175,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 10,
+      "category": "female",
+      "year": 1952,
+      "percent": 9.345794393,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1952,
+      "percent": 0,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 14,
+      "category": "female",
+      "year": 1952,
+      "percent": 10.85271318,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1952,
+      "percent": 0,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 31,
+      "category": "female",
+      "year": 1952,
+      "percent": 12.65306122,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1952,
+      "percent": 17.12062257,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 32,
+      "category": "female",
+      "year": 1952,
+      "percent": 15.6097561,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1952,
+      "percent": 14.28571429,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 23,
+      "category": "female",
+      "year": 1952,
+      "percent": 9.956709957,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1952,
+      "percent": 15.94202899,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1952,
+      "percent": 5.263157895,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 26,
+      "category": "female",
+      "year": 1952,
+      "percent": 25,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 22,
+      "category": "female",
+      "year": 1952,
+      "percent": 17.6,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1952,
+      "percent": 5.732484076,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 23,
+      "category": "female",
+      "year": 1952,
+      "percent": 11.16504854,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 41,
+      "category": "female",
+      "year": 1952,
+      "percent": 14.33566434,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 40,
+      "category": "female",
+      "year": 1952,
+      "percent": 13.55932203,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1956,
+      "percent": 14.96598639,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1956,
+      "percent": 5.555555556,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1956,
+      "percent": 2.272727273,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1956,
+      "percent": 16.30434783,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1956,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1956,
+      "percent": 12.90322581,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1956,
+      "percent": null,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 18,
+      "category": "female",
+      "year": 1956,
+      "percent": 13.13868613,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 26,
+      "category": "female",
+      "year": 1956,
+      "percent": 13.75661376,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 24,
+      "category": "female",
+      "year": 1956,
+      "percent": 15.18987342,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 1956,
+      "percent": 18.51851852,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1956,
+      "percent": 11.62790698,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1956,
+      "percent": 14.54545455,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1956,
+      "percent": 0,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1956,
+      "percent": null,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1956,
+      "percent": 23.4375,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1956,
+      "percent": null,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 14,
+      "category": "female",
+      "year": 1956,
+      "percent": 15.90909091,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 46,
+      "category": "female",
+      "year": 1956,
+      "percent": 15.48821549,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 39,
+      "category": "female",
+      "year": 1956,
+      "percent": 14.33823529,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1960,
+      "percent": 15.34391534,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 8,
+      "category": "female",
+      "year": 1960,
+      "percent": 7.920792079,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1960,
+      "percent": 1.408450704,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1960,
+      "percent": 12.94117647,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1960,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 12,
+      "category": "female",
+      "year": 1960,
+      "percent": 12,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1960,
+      "percent": 7.638888889,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 28,
+      "category": "female",
+      "year": 1960,
+      "percent": 11.76470588,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 47,
+      "category": "female",
+      "year": 1960,
+      "percent": 18.5770751,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 55,
+      "category": "female",
+      "year": 1960,
+      "percent": 18.70748299,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1960,
+      "percent": 15,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 34,
+      "category": "female",
+      "year": 1960,
+      "percent": 12.14285714,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 1960,
+      "percent": 12.34567901,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1960,
+      "percent": 5.714285714,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 30,
+      "category": "female",
+      "year": 1960,
+      "percent": 27.27272727,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1960,
+      "percent": 15.67567568,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1960,
+      "percent": 1.342281879,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 19,
+      "category": "female",
+      "year": 1960,
+      "percent": 14.17910448,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 51,
+      "category": "female",
+      "year": 1960,
+      "percent": 17.46575342,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 50,
+      "category": "female",
+      "year": 1960,
+      "percent": 17.66784452,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 40,
+      "category": "female",
+      "year": 1964,
+      "percent": 16.46090535,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1964,
+      "percent": 1.639344262,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1964,
+      "percent": 1.639344262,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 1964,
+      "percent": 17.39130435,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1964,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 7,
+      "category": "female",
+      "year": 1964,
+      "percent": 11.66666667,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1964,
+      "percent": 5.882352941,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 1964,
+      "percent": 14.49275362,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1964,
+      "percent": 21.56862745,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 62,
+      "category": "female",
+      "year": 1964,
+      "percent": 18.39762611,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 32,
+      "category": "female",
+      "year": 1964,
+      "percent": 17.58241758,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1964,
+      "percent": 6.547619048,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 58,
+      "category": "female",
+      "year": 1964,
+      "percent": 17.68292683,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 26,
+      "category": "female",
+      "year": 1964,
+      "percent": 16.88311688,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 1964,
+      "percent": 16,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 25,
+      "category": "female",
+      "year": 1964,
+      "percent": 17.85714286,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 1,
+      "category": "female",
+      "year": 1964,
+      "percent": 1.515151515,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 18,
+      "category": "female",
+      "year": 1964,
+      "percent": 19.14893617,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 79,
+      "category": "female",
+      "year": 1964,
+      "percent": 22.83236994,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 63,
+      "category": "female",
+      "year": 1964,
+      "percent": 19.87381703,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 24,
+      "category": "female",
+      "year": 1968,
+      "percent": 18.75,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1968,
+      "percent": 6.097560976,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1968,
+      "percent": 3.947368421,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 28,
+      "category": "female",
+      "year": 1968,
+      "percent": 20.14388489,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1968,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1968,
+      "percent": 6.25,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 2,
+      "category": "female",
+      "year": 1968,
+      "percent": 1.639344262,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 31,
+      "category": "female",
+      "year": 1968,
+      "percent": 15.5,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 50,
+      "category": "female",
+      "year": 1968,
+      "percent": 22.22222222,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1968,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 32,
+      "category": "female",
+      "year": 1968,
+      "percent": 19.16167665,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1968,
+      "percent": 8.982035928,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 25,
+      "category": "female",
+      "year": 1968,
+      "percent": 14.61988304,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 13,
+      "category": "female",
+      "year": 1968,
+      "percent": 24.07407407,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 25,
+      "category": "female",
+      "year": 1968,
+      "percent": 23.36448598,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 37,
+      "category": "female",
+      "year": 1968,
+      "percent": 20.9039548,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 4,
+      "category": "female",
+      "year": 1968,
+      "percent": 4.705882353,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 14,
+      "category": "female",
+      "year": 1968,
+      "percent": 14,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 83,
+      "category": "female",
+      "year": 1968,
+      "percent": 23.24929972,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 66,
+      "category": "female",
+      "year": 1968,
+      "percent": 21.15384615,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1972,
+      "percent": 17.26190476,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 6,
+      "category": "female",
+      "year": 1972,
+      "percent": 6.818181818,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1972,
+      "percent": 3.703703704,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 50,
+      "category": "female",
+      "year": 1972,
+      "percent": 24.03846154,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1972,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 12,
+      "category": "female",
+      "year": 1972,
+      "percent": 9.523809524,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 5,
+      "category": "female",
+      "year": 1972,
+      "percent": 4.06504065,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 30,
+      "category": "female",
+      "year": 1972,
+      "percent": 13.21585903,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 74,
+      "category": "female",
+      "year": 1972,
+      "percent": 26.05633803,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1972,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 45,
+      "category": "female",
+      "year": 1972,
+      "percent": 19.39655172,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1972,
+      "percent": 12.05357143,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 36,
+      "category": "female",
+      "year": 1972,
+      "percent": 19.56521739,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 10,
+      "category": "female",
+      "year": 1972,
+      "percent": 23.80952381,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1972,
+      "percent": 24.3697479,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 38,
+      "category": "female",
+      "year": 1972,
+      "percent": 13.10344828,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1972,
+      "percent": 19.20529801,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1972,
+      "percent": 20.61068702,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 84,
+      "category": "female",
+      "year": 1972,
+      "percent": 21,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 73,
+      "category": "female",
+      "year": 1972,
+      "percent": 19.67654987,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 34,
+      "category": "female",
+      "year": 1976,
+      "percent": 18.88888889,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 26,
+      "category": "female",
+      "year": 1976,
+      "percent": 25.74257426,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 7,
+      "category": "female",
+      "year": 1976,
+      "percent": 8.860759494,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 124,
+      "category": "female",
+      "year": 1976,
+      "percent": 32.20779221,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1976,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 10,
+      "category": "female",
+      "year": 1976,
+      "percent": 15.15151515,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 10,
+      "category": "female",
+      "year": 1976,
+      "percent": 8.849557522,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1976,
+      "percent": 14.0776699,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 66,
+      "category": "female",
+      "year": 1976,
+      "percent": 27.27272727,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1976,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 54,
+      "category": "female",
+      "year": 1976,
+      "percent": 30.33707865,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1976,
+      "percent": 12.85714286,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 60,
+      "category": "female",
+      "year": 1976,
+      "percent": 28.16901408,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 12,
+      "category": "female",
+      "year": 1976,
+      "percent": 24,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 36,
+      "category": "female",
+      "year": 1976,
+      "percent": 33.33333333,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1976,
+      "percent": 13.04347826,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1976,
+      "percent": 6,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 17,
+      "category": "female",
+      "year": 1976,
+      "percent": 14.65517241,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 118,
+      "category": "female",
+      "year": 1976,
+      "percent": 29.7979798,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 125,
+      "category": "female",
+      "year": 1976,
+      "percent": 30.48780488,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 28,
+      "category": "female",
+      "year": 1980,
+      "percent": 23.33333333,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1980,
+      "percent": 27.11864407,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 15,
+      "category": "female",
+      "year": 1980,
+      "percent": 14.1509434,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1980,
+      "percent": null,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1980,
+      "percent": null,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 3,
+      "category": "female",
+      "year": 1980,
+      "percent": 5.172413793,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 9,
+      "category": "female",
+      "year": 1980,
+      "percent": 5.806451613,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 23,
+      "category": "female",
+      "year": 1980,
+      "percent": 19.00826446,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 70,
+      "category": "female",
+      "year": 1980,
+      "percent": 31.96347032,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1980,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 81,
+      "category": "female",
+      "year": 1980,
+      "percent": 30.79847909,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 38,
+      "category": "female",
+      "year": 1980,
+      "percent": 23.89937107,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1980,
+      "percent": null,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1980,
+      "percent": null,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 18,
+      "category": "female",
+      "year": 1980,
+      "percent": 24,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 74,
+      "category": "female",
+      "year": 1980,
+      "percent": 24.18300654,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 6,
+      "category": "female",
+      "year": 1980,
+      "percent": 8.219178082,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 23,
+      "category": "female",
+      "year": 1980,
+      "percent": 15.86206897,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1980,
+      "percent": null,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 149,
+      "category": "female",
+      "year": 1980,
+      "percent": 30.47034765,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 73,
+      "category": "female",
+      "year": 1984,
+      "percent": 30.16528926,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1984,
+      "percent": 25.3968254,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 21,
+      "category": "female",
+      "year": 1984,
+      "percent": 14.28571429,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 151,
+      "category": "female",
+      "year": 1984,
+      "percent": 37.00980392,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 83,
+      "category": "female",
+      "year": 1984,
+      "percent": 38.60465116,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 11,
+      "category": "female",
+      "year": 1984,
+      "percent": 18.33333333,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 16,
+      "category": "female",
+      "year": 1984,
+      "percent": 8.938547486,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 49,
+      "category": "female",
+      "year": 1984,
+      "percent": 20.58823529,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 108,
+      "category": "female",
+      "year": 1984,
+      "percent": 32.04747774,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1984,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1984,
+      "percent": null,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 46,
+      "category": "female",
+      "year": 1984,
+      "percent": 17.1641791,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 52,
+      "category": "female",
+      "year": 1984,
+      "percent": 23.00884956,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 59,
+      "category": "female",
+      "year": 1984,
+      "percent": 33.71428571,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 54,
+      "category": "female",
+      "year": 1984,
+      "percent": 39.70588235,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1984,
+      "percent": null,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1984,
+      "percent": 20.93023256,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 43,
+      "category": "female",
+      "year": 1984,
+      "percent": 24.71264368,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 183,
+      "category": "female",
+      "year": 1984,
+      "percent": 35.05747126,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1984,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 72,
+      "category": "female",
+      "year": 1988,
+      "percent": 28.57142857,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 24,
+      "category": "female",
+      "year": 1988,
+      "percent": 40.6779661,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 33,
+      "category": "female",
+      "year": 1988,
+      "percent": 20.625,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 105,
+      "category": "female",
+      "year": 1988,
+      "percent": 32.01219512,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 124,
+      "category": "female",
+      "year": 1988,
+      "percent": 45.42124542,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 21,
+      "category": "female",
+      "year": 1988,
+      "percent": 26.92307692,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1988,
+      "percent": 12.66375546,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 74,
+      "category": "female",
+      "year": 1988,
+      "percent": 27.81954887,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 126,
+      "category": "female",
+      "year": 1988,
+      "percent": 36.52173913,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1988,
+      "percent": null,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 36,
+      "category": "female",
+      "year": 1988,
+      "percent": 19.14893617,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 41,
+      "category": "female",
+      "year": 1988,
+      "percent": 16.2055336,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 69,
+      "category": "female",
+      "year": 1988,
+      "percent": 27.05882353,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 132,
+      "category": "female",
+      "year": 1988,
+      "percent": 32.91770574,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 54,
+      "category": "female",
+      "year": 1988,
+      "percent": 36.73469388,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 32,
+      "category": "female",
+      "year": 1988,
+      "percent": 22.37762238,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 27,
+      "category": "female",
+      "year": 1988,
+      "percent": 27.27272727,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 37,
+      "category": "female",
+      "year": 1988,
+      "percent": 20.10869565,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 195,
+      "category": "female",
+      "year": 1988,
+      "percent": 37.00189753,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 162,
+      "category": "female",
+      "year": 1988,
+      "percent": 33.67983368,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 92,
+      "category": "female",
+      "year": 1992,
+      "percent": 32.97491039,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 25,
+      "category": "female",
+      "year": 1992,
+      "percent": 36.76470588,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 50,
+      "category": "female",
+      "year": 1992,
+      "percent": 27.47252747,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 116,
+      "category": "female",
+      "year": 1992,
+      "percent": 39.3220339,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 127,
+      "category": "female",
+      "year": 1992,
+      "percent": 52.04918033,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 33,
+      "category": "female",
+      "year": 1992,
+      "percent": 30,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 125,
+      "category": "female",
+      "year": 1992,
+      "percent": 29.6912114,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 98,
+      "category": "female",
+      "year": 1992,
+      "percent": 28.90855457,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 142,
+      "category": "female",
+      "year": 1992,
+      "percent": 38.27493261,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 163,
+      "category": "female",
+      "year": 1992,
+      "percent": 35.20518359,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 58,
+      "category": "female",
+      "year": 1992,
+      "percent": 26.7281106,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 76,
+      "category": "female",
+      "year": 1992,
+      "percent": 25,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 81,
+      "category": "female",
+      "year": 1992,
+      "percent": 31.640625,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 72,
+      "category": "female",
+      "year": 1992,
+      "percent": 31.85840708,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 84,
+      "category": "female",
+      "year": 1992,
+      "percent": 41.79104478,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 52,
+      "category": "female",
+      "year": 1992,
+      "percent": 25.87064677,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 29,
+      "category": "female",
+      "year": 1992,
+      "percent": 28.43137255,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 1992,
+      "percent": 23.52941176,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 190,
+      "category": "female",
+      "year": 1992,
+      "percent": 34.86238532,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 1992,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 167,
+      "category": "female",
+      "year": 1996,
+      "percent": 40.04796163,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 1996,
+      "percent": 32.78688525,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 65,
+      "category": "female",
+      "year": 1996,
+      "percent": 29.41176471,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 151,
+      "category": "female",
+      "year": 1996,
+      "percent": 49.8349835,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 183,
+      "category": "female",
+      "year": 1996,
+      "percent": 62.24489796,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 65,
+      "category": "female",
+      "year": 1996,
+      "percent": 54.62184874,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 95,
+      "category": "female",
+      "year": 1996,
+      "percent": 32.87197232,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 102,
+      "category": "female",
+      "year": 1996,
+      "percent": 34.11371237,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 116,
+      "category": "female",
+      "year": 1996,
+      "percent": 38.66666667,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 187,
+      "category": "female",
+      "year": 1996,
+      "percent": 40.12875536,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 66,
+      "category": "female",
+      "year": 1996,
+      "percent": 30.98591549,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 104,
+      "category": "female",
+      "year": 1996,
+      "percent": 30.58823529,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 149,
+      "category": "female",
+      "year": 1996,
+      "percent": 48.69281046,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 113,
+      "category": "female",
+      "year": 1996,
+      "percent": 37.29372937,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 102,
+      "category": "female",
+      "year": 1996,
+      "percent": 42.67782427,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 39,
+      "category": "female",
+      "year": 1996,
+      "percent": 23.63636364,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 43,
+      "category": "female",
+      "year": 1996,
+      "percent": 37.39130435,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 66,
+      "category": "female",
+      "year": 1996,
+      "percent": 37.28813559,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 273,
+      "category": "female",
+      "year": 1996,
+      "percent": 42.12962963,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 158,
+      "category": "female",
+      "year": 1996,
+      "percent": 40.51282051,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 276,
+      "category": "female",
+      "year": 2000,
+      "percent": 44.73257699,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 32,
+      "category": "female",
+      "year": 2000,
+      "percent": 47.05882353,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 92,
+      "category": "female",
+      "year": 2000,
+      "percent": 46.46464646,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 144,
+      "category": "female",
+      "year": 2000,
+      "percent": 48.97959184,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 180,
+      "category": "female",
+      "year": 2000,
+      "percent": 66.42066421,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 2000,
+      "percent": 45.36082474,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 105,
+      "category": "female",
+      "year": 2000,
+      "percent": 32.71028037,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 125,
+      "category": "female",
+      "year": 2000,
+      "percent": 37.20238095,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 129,
+      "category": "female",
+      "year": 2000,
+      "percent": 41.61290323,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 181,
+      "category": "female",
+      "year": 2000,
+      "percent": 42.89099526,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 69,
+      "category": "female",
+      "year": 2000,
+      "percent": 38.76404494,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 115,
+      "category": "female",
+      "year": 2000,
+      "percent": 31.85595568,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 110,
+      "category": "female",
+      "year": 2000,
+      "percent": 41.35338346,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 106,
+      "category": "female",
+      "year": 2000,
+      "percent": 37.72241993,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 84,
+      "category": "female",
+      "year": 2000,
+      "percent": 36.36363636,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 58,
+      "category": "female",
+      "year": 2000,
+      "percent": 31.01604278,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 38,
+      "category": "female",
+      "year": 2000,
+      "percent": 37.25490196,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 52,
+      "category": "female",
+      "year": 2000,
+      "percent": 34.66666667,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 253,
+      "category": "female",
+      "year": 2000,
+      "percent": 43.17406143,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 194,
+      "category": "female",
+      "year": 2000,
+      "percent": 44.59770115,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 202,
+      "category": "female",
+      "year": 2004,
+      "percent": 42.9787234,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 19,
+      "category": "female",
+      "year": 2004,
+      "percent": 38,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 119,
+      "category": "female",
+      "year": 2004,
+      "percent": 48.97119342,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 132,
+      "category": "female",
+      "year": 2004,
+      "percent": 50.38167939,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 247,
+      "category": "female",
+      "year": 2004,
+      "percent": 64.49086162,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 44,
+      "category": "female",
+      "year": 2004,
+      "percent": 47.82608696,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 139,
+      "category": "female",
+      "year": 2004,
+      "percent": 43.98734177,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 113,
+      "category": "female",
+      "year": 2004,
+      "percent": 36.68831169,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 103,
+      "category": "female",
+      "year": 2004,
+      "percent": 39.01515152,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 191,
+      "category": "female",
+      "year": 2004,
+      "percent": 43.3106576,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 90,
+      "category": "female",
+      "year": 2004,
+      "percent": 43.06220096,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 135,
+      "category": "female",
+      "year": 2004,
+      "percent": 37.08791209,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 167,
+      "category": "female",
+      "year": 2004,
+      "percent": 54.5751634,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 119,
+      "category": "female",
+      "year": 2004,
+      "percent": 45.07575758,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 76,
+      "category": "female",
+      "year": 2004,
+      "percent": 36.19047619,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 62,
+      "category": "female",
+      "year": 2004,
+      "percent": 31.95876289,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 39,
+      "category": "female",
+      "year": 2004,
+      "percent": 39.79591837,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 53,
+      "category": "female",
+      "year": 2004,
+      "percent": 46.08695652,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 254,
+      "category": "female",
+      "year": 2004,
+      "percent": 47.65478424,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 202,
+      "category": "female",
+      "year": 2004,
+      "percent": 45.29147982,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 199,
+      "category": "female",
+      "year": 2008,
+      "percent": 46.06481481,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 17,
+      "category": "female",
+      "year": 2008,
+      "percent": 18.08510638,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 129,
+      "category": "female",
+      "year": 2008,
+      "percent": 48.13432836,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 146,
+      "category": "female",
+      "year": 2008,
+      "percent": 43.97590361,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 289,
+      "category": "female",
+      "year": 2008,
+      "percent": 48.24707846,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 20,
+      "category": "female",
+      "year": 2008,
+      "percent": 23.80952381,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 120,
+      "category": "female",
+      "year": 2008,
+      "percent": 42.40282686,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 121,
+      "category": "female",
+      "year": 2008,
+      "percent": 39.15857605,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 141,
+      "category": "female",
+      "year": 2008,
+      "percent": 46.38157895,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 183,
+      "category": "female",
+      "year": 2008,
+      "percent": 43.57142857,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 83,
+      "category": "female",
+      "year": 2008,
+      "percent": 48.5380117,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 130,
+      "category": "female",
+      "year": 2008,
+      "percent": 39.03903904,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 165,
+      "category": "female",
+      "year": 2008,
+      "percent": 49.69879518,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 106,
+      "category": "female",
+      "year": 2008,
+      "percent": 40,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 98,
+      "category": "female",
+      "year": 2008,
+      "percent": 41.35021097,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 101,
+      "category": "female",
+      "year": 2008,
+      "percent": 39.29961089,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 36,
+      "category": "female",
+      "year": 2008,
+      "percent": 43.37349398,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 73,
+      "category": "female",
+      "year": 2008,
+      "percent": 59.3495935,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 282,
+      "category": "female",
+      "year": 2008,
+      "percent": 47.95918367,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 223,
+      "category": "female",
+      "year": 2008,
+      "percent": 49.11894273,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 184,
+      "category": "female",
+      "year": 2012,
+      "percent": 45.43209877,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 42,
+      "category": "female",
+      "year": 2012,
+      "percent": 37.83783784,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 117,
+      "category": "female",
+      "year": 2012,
+      "percent": 47.17741935,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 154,
+      "category": "female",
+      "year": 2012,
+      "percent": 56.41025641,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 216,
+      "category": "female",
+      "year": 2012,
+      "percent": 57.44680851,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 48,
+      "category": "female",
+      "year": 2012,
+      "percent": 42.10526316,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 110,
+      "category": "female",
+      "year": 2012,
+      "percent": 39.56834532,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 142,
+      "category": "female",
+      "year": 2012,
+      "percent": 43.82716049,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 257,
+      "category": "female",
+      "year": 2012,
+      "percent": 48.49056604,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 171,
+      "category": "female",
+      "year": 2012,
+      "percent": 44.64751958,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 59,
+      "category": "female",
+      "year": 2012,
+      "percent": 38.81578947,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 123,
+      "category": "female",
+      "year": 2012,
+      "percent": 43.77224199,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 155,
+      "category": "female",
+      "year": 2012,
+      "percent": 53.26460481,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 115,
+      "category": "female",
+      "year": 2012,
+      "percent": 46,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 79,
+      "category": "female",
+      "year": 2012,
+      "percent": 45.66473988,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 86,
+      "category": "female",
+      "year": 2012,
+      "percent": 40.95238095,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 28,
+      "category": "female",
+      "year": 2012,
+      "percent": 28.57142857,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 78,
+      "category": "female",
+      "year": 2012,
+      "percent": 58.64661654,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 268,
+      "category": "female",
+      "year": 2012,
+      "percent": 50.56603774,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 226,
+      "category": "female",
+      "year": 2012,
+      "percent": 52.68065268,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 212,
+      "category": "female",
+      "year": 2016,
+      "percent": 50.47619048,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 34,
+      "category": "female",
+      "year": 2016,
+      "percent": 32.69230769,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 207,
+      "category": "female",
+      "year": 2016,
+      "percent": 44.80519481,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 183,
+      "category": "female",
+      "year": 2016,
+      "percent": 59.03225806,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 241,
+      "category": "female",
+      "year": 2016,
+      "percent": 61.47959184,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 41,
+      "category": "female",
+      "year": 2016,
+      "percent": 34.45378151,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 143,
+      "category": "female",
+      "year": 2016,
+      "percent": 46.57980456,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 167,
+      "category": "female",
+      "year": 2016,
+      "percent": 42.60204082,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 159,
+      "category": "female",
+      "year": 2016,
+      "percent": 44.16666667,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 194,
+      "category": "female",
+      "year": 2016,
+      "percent": 46.41148325,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 66,
+      "category": "female",
+      "year": 2016,
+      "percent": 42.85714286,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 141,
+      "category": "female",
+      "year": 2016,
+      "percent": 45.63106796,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 164,
+      "category": "female",
+      "year": 2016,
+      "percent": 48.95522388,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 104,
+      "category": "female",
+      "year": 2016,
+      "percent": 50.24154589,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 132,
+      "category": "female",
+      "year": 2016,
+      "percent": 55.69620253,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 95,
+      "category": "female",
+      "year": 2016,
+      "percent": 40.5982906,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 45,
+      "category": "female",
+      "year": 2016,
+      "percent": 44.11764706,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 86,
+      "category": "female",
+      "year": 2016,
+      "percent": 57.33333333,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 291,
+      "category": "female",
+      "year": 2016,
+      "percent": 52.43243243,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 142,
+      "category": "female",
+      "year": 2016,
+      "percent": 50,
+      "country": "URS + RUS",
+      "order": 7
+    },
+    {
+      "count": 257,
+      "category": "female",
+      "year": 2020,
+      "percent": 53.65344468,
+      "country": "AUS",
+      "order": 6
+    },
+    {
+      "count": 54,
+      "category": "female",
+      "year": 2020,
+      "percent": 43.90243902,
+      "country": "BEL",
+      "order": 18
+    },
+    {
+      "count": 146,
+      "category": "female",
+      "year": 2020,
+      "percent": 47.09677419,
+      "country": "BRA",
+      "order": 16
+    },
+    {
+      "count": 230,
+      "category": "female",
+      "year": 2020,
+      "percent": 60.84656085,
+      "country": "CAN",
+      "order": 8
+    },
+    {
+      "count": 285,
+      "category": "female",
+      "year": 2020,
+      "percent": 69.51219512,
+      "country": "CHN",
+      "order": 15
+    },
+    {
+      "count": 49,
+      "category": "female",
+      "year": 2020,
+      "percent": 47.11538462,
+      "country": "DEN",
+      "order": 20
+    },
+    {
+      "count": 138,
+      "category": "female",
+      "year": 2020,
+      "percent": 42.07317073,
+      "country": "ESP",
+      "order": 10
+    },
+    {
+      "count": 168,
+      "category": "female",
+      "year": 2020,
+      "percent": 44.21052632,
+      "country": "FRA",
+      "order": 2
+    },
+    {
+      "count": 197,
+      "category": "female",
+      "year": 2020,
+      "percent": 52.53333333,
+      "country": "GBR",
+      "order": 3
+    },
+    {
+      "count": 158,
+      "category": "female",
+      "year": 2020,
+      "percent": 40.30612245,
+      "country": "GER",
+      "order": 5
+    },
+    {
+      "count": 91,
+      "category": "female",
+      "year": 2020,
+      "percent": 52.90697674,
+      "country": "HUN",
+      "order": 12
+    },
+    {
+      "count": 178,
+      "category": "female",
+      "year": 2020,
+      "percent": 48.63387978,
+      "country": "ITA",
+      "order": 4
+    },
+    {
+      "count": 286,
+      "category": "female",
+      "year": 2020,
+      "percent": 47.66666667,
+      "country": "JPN",
+      "order": 9
+    },
+    {
+      "count": 105,
+      "category": "female",
+      "year": 2020,
+      "percent": 44.68085106,
+      "country": "KOR",
+      "order": 17
+    },
+    {
+      "count": 155,
+      "category": "female",
+      "year": 2020,
+      "percent": 58.05243446,
+      "country": "NED",
+      "order": 13
+    },
+    {
+      "count": 98,
+      "category": "female",
+      "year": 2020,
+      "percent": 47.57281553,
+      "country": "POL",
+      "order": 14
+    },
+    {
+      "count": 54,
+      "category": "female",
+      "year": 2020,
+      "percent": 47.78761062,
+      "country": "SUI",
+      "order": 19
+    },
+    {
+      "count": 78,
+      "category": "female",
+      "year": 2020,
+      "percent": 58.64661654,
+      "country": "SWE",
+      "order": 11
+    },
+    {
+      "count": 336,
+      "category": "female",
+      "year": 2020,
+      "percent": 54.10628019,
+      "country": "USA",
+      "order": 1
+    },
+    {
+      "count": 0,
+      "category": "female",
+      "year": 2020,
+      "percent": null,
+      "country": "URS + RUS",
+      "order": 7
+    }
+  ]
