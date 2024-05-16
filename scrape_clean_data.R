@@ -30,6 +30,9 @@ scrape_page <- function(year) {
   }
 }
 
+years <- c(1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 53, 54, 59, 61)
+
+
 # go over each year
 for (year in years) {
   data <- scrape_page(year)
