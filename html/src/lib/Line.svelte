@@ -13,3 +13,9 @@
 </script>
 
 <path d={lineGenerator(data)} fill={"none"} stroke={color} stroke-width={3}/>
+{#each data as d}
+{#if d.percent != null}
+<circle cx={xScale(d.year)} cy = {yScale(d.percent)} r=2 fill={color} />
+{/if}
+{/each}
+
