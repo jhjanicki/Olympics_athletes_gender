@@ -5112,10 +5112,10 @@
     "order": 1
   },
   {
-    "count": 0,
+    "count": 147,
     "category": "male",
     "year": 2020,
-    "percent": null,
+    "percent": 44.01197605,
     "country": "URS + RUS",
     "order": 7
   },
@@ -10232,10 +10232,10 @@
     "order": 1
   },
   {
-    "count": 0,
+    "count": 187,
     "category": "female",
     "year": 2020,
-    "percent": null,
+    "percent": 55.98802395,
     "country": "URS + RUS",
     "order": 7
   }
